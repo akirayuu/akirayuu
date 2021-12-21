@@ -4,7 +4,7 @@
 
 
 ## Connect With Me
-<a href="https://kembaralydia.wordpress.com/"><img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="wordpress"/></a>
+<a href="https://kembaralydia.wordpress.com/"><img src="https://img.icons8.com/color/96/000000/wordpress.png" alt="wordpress"/></a>
 <a href="https://www.instagram.com/saylidya"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
 <a href="https://www.linkedin.com/in/fatinilidya"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <a href="mailto:kembaralydia@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>

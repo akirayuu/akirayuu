@@ -4,12 +4,13 @@
 
 
 ## Connect With Me
-<a href="https://www.linkedin.com/in/fatinilidya"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://kembaralydia.wordpress.com/"><img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="wordpress"/></a>
 <a href="https://www.instagram.com/saylidya"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+<a href="https://www.linkedin.com/in/fatinilidya"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <a href="mailto:kembaralydia@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
 
 
-## My Travel [Blog] (https://kembaralydia.wordpress.com/)
+## My Travel Blog
 
 <!-- BLOG-POST-LIST:START -->
 - [Pulau Kapas, Terengganu](https://kembaralydia.wordpress.com/2020/07/15/pulau-kapas-terengganu-2d1n-under-rm300/)

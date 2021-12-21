@@ -1,4 +1,4 @@
- ### Hi, I'm Akira Yuu
+ ### Hello World, My name is Akira Yuu
  ### I'm a 🚀 Jr Software Developer 🚀 
  ### I ❤️ to Travel and Experience New Things ❤️
 
@@ -9,7 +9,7 @@
 <a href="mailto:kembaralydia@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
 
 
-## My Travel Blog
+## My Travel [Blog] (https://kembaralydia.wordpress.com/)
 
 <!-- BLOG-POST-LIST:START -->
 - [Pulau Kapas, Terengganu](https://kembaralydia.wordpress.com/2020/07/15/pulau-kapas-terengganu-2d1n-under-rm300/)

@@ -1,4 +1,4 @@
- ### Hello World, My name is Akira Yuu 🙈
+ ### Hello World, My Name is Akira Yuu 🙈
 - I'm a 🚀 Jr Software Developer 🚀 
 - I 💗 to 🛫Travel and Experience New Things 🛬
 - I use this platform to ✍ study and test my code 📈

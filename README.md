@@ -1,8 +1,7 @@
-### AKIRA YUU
-- 🍭 Hi, I’m @akirayuu
-- 🔰 A junior software engineer
-- 📝 I’m currently still learning php
-- 🔎 I focus more on backend side
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Akira Yuu 👋 I'm a 🚀 Jr Software Developer 🚀 I ❤️ Travel and Experience New Things ❤️">
+</p>
+
 
 <!---
 akirayuu/akirayuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
